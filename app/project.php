@@ -17,4 +17,4 @@ class project extends Model
     {
         return $this->belongstoMany('App\User');
     }
-}
+}// anmol
